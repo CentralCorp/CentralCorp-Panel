@@ -4,7 +4,7 @@
 ## 🌍 English Version
 
 ### 📝 Description
-OFFICIAL Panel for **[CentralCorp Launcher](https://github.com/CentralCorp/CentralCorp-Launcher)**
+#### OFFICIAL Panel for **[CentralCorp Launcher](https://github.com/CentralCorp/CentralCorp-Launcher)**
 ---
 
 ### 📖 Full Documentation
@@ -15,7 +15,7 @@ OFFICIAL Panel for **[CentralCorp Launcher](https://github.com/CentralCorp/Centr
 ## 🇫🇷 Version Française
 
 ### 📝 Description
-Pannel OFFICIEL pour **[CentralCorp Launcher](https://github.com/CentralCorp/CentralCorp-Launcher)**
+#### Pannel OFFICIEL pour **[CentralCorp Launcher](https://github.com/CentralCorp/CentralCorp-Launcher)**
 ---
 
 ### 📖 Documentation Complète
