@@ -12,7 +12,7 @@ OFFICIAL Panel for **[CentralCorp Launcher](https://github.com/CentralCorp/Centr
 
 
 ---
-## 🌍 Version Française
+## 🇫🇷 Version Française
 
 ### 📝 Description
 Pannel OFFICIEL pour **[CentralCorp Launcher](https://github.com/CentralCorp/CentralCorp-Launcher)**
