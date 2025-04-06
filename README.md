@@ -1,4 +1,4 @@
-![logo](https://centralcorp.github.io/assets/img/minecraft_title.png)
+![logo](https://centralcorp.github.io/assets/img/panel.png)
 
 
 ## 🌍 English Version
@@ -15,7 +15,7 @@ OFFICIAL Panel for **[CentralCorp Launcher](https://github.com/CentralCorp/Centr
 ## 🌍 Version Française
 
 ### 📝 Description
-Panneau OFFICIEL pour **[CentralCorp Launcher](https://github.com/CentralCorp/CentralCorp-Launcher)**
+Pannel OFFICIEL pour **[CentralCorp Launcher](https://github.com/CentralCorp/CentralCorp-Launcher)**
 ---
 
 ### 📖 Documentation Complète
