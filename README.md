@@ -1,22 +1,20 @@
-![logo](https://centralcorp.github.io/assets/img/panel.png)
-
+![logo](https://centralcorp.github.io/img/panel.png)
 
 ## 🌍 English Version
 
 ### 📝 Description
-#### OFFICIAL Panel for **[CentralCorp Launcher](https://github.com/CentralCorp/CentralCorp-Launcher)**
+#### New Version **[CentralCorp Launcher](https://github.com/CentralCorp/centralpanel-v2)**
 ---
 
 ### 📖 Full Documentation
 📚 **Official Documentation:** [Click Here](https://centralcorp.github.io/)
 
-
 ---
 ## 🇫🇷 Version Française
 
 ### 📝 Description
-#### Pannel OFFICIEL pour **[CentralCorp Launcher](https://github.com/CentralCorp/CentralCorp-Launcher)**
+#### Nouvelle version **[CentralCorp Launcher](https://github.com/CentralCorp/centralpanel-v2)**
 ---
 
-### 📖 Documentation Complète
-📚 **Documentation Officielle :** [Cliquez ici](https://centralcorp.github.io/)
+### 📖 Documentation complète
+📚 **Documentation officielle :** [Cliquez ici](https://centralcorp.github.io/)
